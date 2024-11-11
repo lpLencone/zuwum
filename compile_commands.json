@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-std=c23",
+      "-pedantic",
+      "-o",
+      "zuwum",
+      "src/main.c"
+    ],
+    "directory": "/home/lencone/Code/c/zuwum",
+    "file": "/home/lencone/Code/c/zuwum/src/main.c",
+    "output": "/home/lencone/Code/c/zuwum/zuwum"
+  }
+]
